@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/IceRink.unity
+- path: Assets/_Scenes/Story Scenes/Level 1.unity
   isLoaded: 1
   isActive: 1
